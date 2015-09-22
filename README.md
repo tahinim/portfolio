@@ -7,19 +7,26 @@ My name is Tahini and I’m an Indian graphic designer and creative thinker base
 
 I'm really excited for this website because I want to showcase my passion for graphic design and creative thinking.
 
-## Portfolio Pieces
+## Knowledgable In
 1. Print
 2. Motion
 3. Web Development
 4. Interactive Design
 5. Branding
 
-###Taxonomy and names
-The sloth's taxonomic suborder is Folivora, sometimes also called Phyllophaga (Owen, 1842) or Tardigrada (Latham and Davies, 1795). The first two names both mean "leaf-eaters"; derived from Latin and Greek, respectively. Names for the animals used by tribes in Ecuador include ritto, rit, and ridette, mostly forms of the word "sleep", "eat", and "dirty" from Tagaeri tribe of Huaorani.
+###My Motivation
+I intend on working for a graphic design studio that specializes in printmaking, advertising and branding. I think most companies look at students and see the way they think and how creative they are. That is the motivation behind my work; to be different and to be creative and make work that studio directors will notice.
+
 
 **My Porfolio Pieces Include** :
 
 - [ ]Vintage Collages
 - [ ]Tim Hortons rebranding
-- [ ]
+- [ ]Mosaic Constructions
 
+---
+name: Tahini Moitra
+e-mail: tahinim@hotmail.com
+date of birth: 08/05/1991
+image: https://s-media-cache-ak0.pinimg.com/736x/e5/29/35/e529359b0a4e4098ba4e363dbc7e064c.jpg
+---
