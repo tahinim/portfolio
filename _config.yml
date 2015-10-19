@@ -1,2 +1,3 @@
 permalink: redcarpet
 baseurl: /portfolio
+exclude: ['README.md']
