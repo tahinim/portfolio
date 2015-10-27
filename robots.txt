@@ -1,2 +1,5 @@
+Sitemap:https:http://tahinimoitra.ca/sitemap.xml
+
+
 User-agent: *
 Disallow: /img
