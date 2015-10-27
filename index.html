@@ -2,9 +2,9 @@
 layout: default
 ---
  
-     <div class="hello h2">
+     <div class="hello h2 ">
          <h2><u>HELLO</u></h2>
-    <p> My name is Tahini Moitra and I’m a graphic designer and creative thinker based in Ottawa,ON . My inspiration comes from exploring and creating new adventures! I enjoy all types of design but I’m particularly passionate about branding, Illustration and print. Drop me a line to say hello!
+    <p class=intro> My name is Tahini Moitra and I’m a graphic designer and creative thinker based in Ottawa,ON . My inspiration comes from exploring and creating new adventures! I enjoy all types of design but I’m particularly passionate about branding, Illustration and print. Drop me a line to say hello!
 </p>
      </div>
     
@@ -43,6 +43,7 @@ layout: default
          <figure>
             <img src="images/{{piece.img}}" alt="">
             <figcaption class="micro island-half">{{piece.title}}</figcaption>
+           {{piece.desc}}
          </figure>
     </div>
         {% endfor %}
