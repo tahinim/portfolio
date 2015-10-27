@@ -43,6 +43,10 @@ body {
     text-align: center;
 }
 
+.p {
+  margin: 10em;
+}
+
 .header {
     margin-bottom: 1rem;
 }
@@ -265,6 +269,5 @@ ul {
     }
     
   .p {
-  margin-left: 2em;
-  margin-right: 2em;
+margin:10em;
 }
