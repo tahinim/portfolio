@@ -37,48 +37,15 @@ layout: default
     
     <div class="grid work">
  
-    <div class="circle unit unit-x-s-1 unit-s-1-1 unit-m-1-2 unit-l-1-3">
-         <figure>
-            <img src="images/work1.jpg" alt="">
-            <figcaption class="micro island-half">CHILD AT HEART</figcaption>
-         </figure>      
-                <a href="{{site.baseurl}}/heart.html">Child at Heart</a>
 
-    </div>
-             
+        {% for piece in site.data.work %}        
     <div class="circle unit unit-x-s-1 unit-s-1-1 unit-m-1-2 unit-l-1-3">
          <figure>
-            <img src="images/work2.jpg" alt="">
-            <figcaption class="micro island-half">ROCK CLIMBING</figcaption>
+            <img src="images/{{piece.img}}" alt="">
+            <figcaption class="micro island-half">{{piece.title}}</figcaption>
          </figure>
     </div>
-        
-    <div class="circle unit unit-x-s-1 unit-s-1-1 unit-m-1-2 unit-l-1-3">
-         <figure>
-            <img src="images/work3.jpg"alt="">
-            <figcaption class="micro island-half">DUST CLOUD</figcaption>
-         </figure>
-        </div>
-             
-    <div class="circle unit unit-x-s-1 unit-s-1-1 unit-m-1-2 unit-l-1-3">
-         <figure>
-            <img src="images/work4.jpg" alt="">
-            <figcaption class="micro island-half">I LOVE YOU WITH ALL OF MY HEARTS </figcaption>
-         </figure>
-        </div>
-             
-    <div class="circle unit unit-x-s-1 unit-s-1-1 unit-m-1-2 unit-l-1-3">
-         <figure>
-            <img src="images/work5.jpg" alt="">
-            <figcaption class="micro island-half">DIVERS</figcaption>
-         </figure>
-    </div>
-             
-    <div class="circle unit unit-x-s-1 unit-s-1-1 unit-m-1-2 unit-l-1-3">
-         <figure>
-            <img src="images/work6.jpg" alt="">
-            <figcaption class="micro island-half">ROAD TRIP</figcaption>
-         </figure>         
-    </div>
+        {% endfor %}
+ 
 </div>
 </div>
