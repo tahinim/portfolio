@@ -103,6 +103,17 @@ ul {
   
 }
 
+    
+@media only screen and (min-width: 38em) {
+  
+.intro { 
+  margin-bottom: 3em; 
+  margin-left: 10em; 
+  margin-right: 10em;
+  
+  } 
+} 
+
 .footer {
     background-color: #D8D8D8;
     padding: 0em;
