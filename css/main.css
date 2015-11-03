@@ -44,7 +44,9 @@ body {
 }
 
 .p {
-  margin: 10em;
+  margin-left:10em;
+  margin-right: 10em;
+  margin-bottom: 5em;
 }
 
 .header {
