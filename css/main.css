@@ -43,11 +43,6 @@ body {
     text-align: center;
 }
 
-.intro {
-  margin-left:10em;
-  margin-right: 10em;
-  margin-bottom: 5em;
-}
 
 .header {
     margin-bottom: 1rem;
@@ -227,12 +222,20 @@ ul {
 .nav li {
     display: inline-block;
     }
+
+.intro { 
+  margin-bottom: 3em; 
+  margin-left: 5em; 
+  margin-right: 5em;
+  
+}
 @media only screen and (min-width: 25em) {
 
 ul {
     list-style-type: none;
     padding-right: 3rem;
-}
+  }
+} 
     
 @media only screen and (min-width: 38em) {
     
@@ -250,6 +253,7 @@ ul {
 .logo {
         width: 40%;
     }
+} 
     
 @media only screen and (min-width: 60em) {
     
@@ -269,7 +273,5 @@ ul {
         width: 50%;
         padding: none;
     }
-    
-  .intro {
-margin:10em;
-}
+
+} 
