@@ -232,7 +232,6 @@ ul {
     list-style-type: none;
     padding-right: 3rem;
   }
-  
 } 
     
 @media only screen and (min-width: 38em) {
@@ -254,8 +253,8 @@ ul {
   
   .intro { 
   margin-bottom: 3em; 
-  margin-left: 10em; 
-  margin-right: 10em;
+  margin-left: 5em; 
+  margin-right: 5em;
   
 }
     
