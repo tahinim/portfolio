@@ -96,9 +96,11 @@ ul {
     padding:0rem;
 }
 
-.p {
-  margin-left: 2em;
-  margin-right: 2em;
+.intro { 
+  margin-bottom: 3em; 
+  margin-left: 5em; 
+  margin-right: 5em;
+  
 }
 
 .footer {
@@ -223,12 +225,7 @@ ul {
     display: inline-block;
     }
 
-.intro { 
-  margin-bottom: 3em; 
-  margin-left: 5em; 
-  margin-right: 5em;
-  
-}
+
 @media only screen and (min-width: 25em) {
 
 ul {
