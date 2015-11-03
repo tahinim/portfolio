@@ -35,7 +35,7 @@ body {
     background-color: white;
 }
 .banner {
-    background-image: url(../images/bannertwo.jpg);
+    background-image: url(../images/bannerthree.jpg);
     background-size:cover;
     background-position: center center;
     width: 100%;
@@ -232,7 +232,7 @@ ul {
     list-style-type: none;
     padding-right: 3rem;
   }
-
+}
     
 @media only screen and (min-width: 38em) {
     
@@ -258,9 +258,7 @@ ul {
   
 }
     
-  
-
-
+}  
 
 @media only screen and (min-width: 60em) {
     
@@ -280,3 +278,5 @@ ul {
         width: 50%;
         padding: none;
     }
+
+} 
