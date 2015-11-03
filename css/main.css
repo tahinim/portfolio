@@ -250,8 +250,18 @@ ul {
 .logo {
         width: 40%;
     }
-} 
+  
+  .intro { 
+  margin-bottom: 3em; 
+  margin-left: 10em; 
+  margin-right: 10em;
+  
+}
     
+  
+} 
+
+
 @media only screen and (min-width: 60em) {
     
     .title2 {
