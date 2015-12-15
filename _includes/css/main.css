@@ -59,6 +59,7 @@ ul {
 
 .nav li {
   display:inline-block;
+  background-color: white;
 }
 
 .nav a,
@@ -159,7 +160,6 @@ ul {
 .nav a:link,
 .nav a:visited {
     display: block;
-    color: #000000;
     text-decoration: none;
 }
 
@@ -239,7 +239,6 @@ ul {
     
 .nav a:visited {
    display: block;
-   color: #000000;
 }
     
 .images {
@@ -266,10 +265,6 @@ ul {
         text-align: center;
     }
     
-    .nav a:visited {
-   display: block;
-   color: #000000;
-}
     .logo {
         width: 40%;
     }
