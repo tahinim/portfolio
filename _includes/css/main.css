@@ -65,7 +65,7 @@ ul {
 .nav a:link,
 .nav a:visited {
   display: block;
-  color:black;
+  color:#99CCCC;
   text-decoration: none;
   overflow: hidden;
   font-weight: 400;
