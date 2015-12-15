@@ -24,15 +24,15 @@ body {
 }
 
 .about {
-    background-color: white;
+    background-color: #E0FFFF;
 }
 
 .work{
-    background-color: white;
+    background-color: #E0FFFF;
 }
 
 .contact {
-    background-color: white;
+    background-color:#E0FFFF;
 }
 .banner {
     background-image: url(../images/finalbanner-01.jpg);
@@ -65,7 +65,7 @@ ul {
 .nav a:link,
 .nav a:visited {
   display: block;
-  color:black;
+  color:white;
   text-decoration: none;
   overflow: hidden;
   font-weight: 400;
