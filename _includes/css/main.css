@@ -24,15 +24,15 @@ body {
 }
 
 .about {
-    background-color: #E0FFFF;
+    background-color: white;
 }
 
 .work{
-    background-color: #E0FFFF;
+    background-color: white;
 }
 
 .contact {
-    background-color:#E0FFFF;
+    background-color: white;
 }
 .banner {
     background-image: url(../images/finalbanner-01.jpg);
@@ -65,7 +65,7 @@ ul {
 .nav a:link,
 .nav a:visited {
   display: block;
-  color:white;
+  color:black;
   text-decoration: none;
   overflow: hidden;
   font-weight: 400;
@@ -80,7 +80,7 @@ ul {
 .nav .nav-current,
 .nav .nav-current:link,
 .nav .nav-current:visited {
- background-color:#E0FFFF;
+ background-color:white;
  color:black;
 }
 
